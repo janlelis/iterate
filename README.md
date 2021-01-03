@@ -1,4 +1,4 @@
-# Kernel#iterate [![[version]](https://badge.fury.io/rb/iterate.svg)](http://badge.fury.io/rb/iterate)  [![[travis]](https://travis-ci.org/janlelis/iterate.png)](https://travis-ci.org/janlelis/iterate)
+# Kernel#iterate [![[version]](https://badge.fury.io/rb/iterate.svg)](http://badge.fury.io/rb/iterate) [![[ci]](https://github.com/janlelis/iterate/workflows/Test/badge.svg)](https://github.com/janlelis/iterate/actions?query=workflow%3ATest)
 
 Iterate over one or more collections. It feels like an `.each` implemented as a control structure. It also makes it easier to iterate over multiple objects.
 
@@ -27,4 +27,4 @@ gem 'iterate'
 
 ## MIT License
 
-Copyright (C) 2010-2016 Jan Lelis <http://janlelis.com>. Released under the MIT license.
+Copyright (C) 2010-2016 Jan Lelis <https://janlelis.com>. Released under the MIT license.

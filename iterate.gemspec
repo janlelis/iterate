@@ -8,7 +8,7 @@ Gem::Specification.new do |gem|
   gem.summary       = "Iterate over one or more collections."
   gem.description   = "Iterate over one or more collections. It feels like an .each implemented as a control structure. It also makes it easier to iterate over multiple objects."
   gem.authors       = ["Jan Lelis"]
-  gem.email         = ["mail@janlelis.de"]
+  gem.email         = ["hi@ruby.consulting"]
   gem.homepage      = "https://github.com/janlelis/iterate"
   gem.license       = "MIT"
 
@@ -17,5 +17,5 @@ Gem::Specification.new do |gem|
   gem.test_files    = gem.files.grep(%r{^(test|spec|features)/})
   gem.require_paths = ["lib"]
 
-  gem.required_ruby_version = "~> 2.0"
+  gem.required_ruby_version = ">= 2.0"
 end
